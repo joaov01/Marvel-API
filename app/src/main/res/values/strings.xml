@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Marvel Characters</string>
+    <string name="text_search">Pesquisar</string>
+    <string name="text_not_found_characters">Não encontramos nenhum personagem com este nome.</string>
+    <string name="text_send_to_favorites">Você deseja ir para favoritos?</string>
+    <string name="text_no">Não</string>
+    <string name="text_yes">Sim</string>
+    <string name="text_favorites_default">Favorite personagens para visualizá-los aqui.</string>
+    <string name="text_title_favorites">Favoritos</string>
+    <string name="text_tag_characters">characters</string>
+    <string name="text_title_details">Detalhes</string>
+</resources>
